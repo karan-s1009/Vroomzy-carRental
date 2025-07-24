@@ -1,10 +1,12 @@
-🚗 Vroomzy – Car Rental Web Application
+🚗 Vroomzy – Car Rental Web Application : 
 
 Vroomzy is a full-stack web application that allows users to browse, book, and manage car rentals with ease. 
 
 The platform is designed to provide a seamless experience for customers looking for short-term or long-term car rentals, while also giving admins control over listings and user management.
 
-🔑 Key Features
+
+🔑 Key Features : 
+
 🏎️ Car Listings – View available cars with details like model, price, fuel type, and availability.
 
 📅 Booking System – Select rental dates, check availability, and make bookings.
@@ -15,7 +17,9 @@ The platform is designed to provide a seamless experience for customers looking 
 
 📱 Responsive Design – Optimized for mobile and desktop views.
 
+
 🛠️ Tech Stack
+
 Frontend: React.js, Tailwind CSS
 
 Backend: Node.js, Express.js
