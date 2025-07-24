@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Outfit:wght@100..900&family=Poppins&family=Varela+Round&display=swap');
+
+@import "tailwindcss";
+
+*{
+  font-family: 'Varela Round', sans-serif;
+}
+
+@theme{
+  --color-primary: #2A9CA2;
+  --color-primary-dull: #5F8F91;
+  --color-light: #EBFAF9  ;
+  --color-borderColor: #C4C7D2;
+}
