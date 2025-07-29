@@ -1,5 +1,7 @@
 🚗 Vroomzy – Car Rental Web Application : 
 
+Website Link - https://vroomzy-rentals.vercel.app/
+
 Vroomzy is a full-stack web application that allows users to browse, book, and manage car rentals with ease. 
 
 The platform is designed to provide a seamless experience for customers looking for short-term or long-term car rentals, while also giving admins control over listings and user management.
@@ -28,6 +30,6 @@ Database: MongoDB (Mongoose)
 
 Authentication: JWT (JSON Web Token)
 
-Hosting: Vercel (Frontend), Render (Backend)
+Hosting: Vercel 
 
 External libraries: react-router-dom, axios, cors, dotenv, bcryptjs, jsonwebtoken
