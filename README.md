@@ -23,12 +23,17 @@ The platform ensures a smooth rental experience for customers while giving admin
 
 Frontend: React.js, Tailwind CSS
 
+
 Backend: Node.js, Express.js
+
 
 Database: MongoDB (Mongoose)
 
+
 Authentication: JWT (JSON Web Token)
 
+
 Hosting: Vercel
+
 
 External Libraries: react-router-dom, axios, cors, dotenv, bcryptjs, jsonwebtoken
