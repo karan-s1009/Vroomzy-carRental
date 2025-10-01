@@ -1,6 +1,6 @@
 🚗 Vroomzy – Car Rental Web Application : 
 
-Website Link - https://vroomzy-rentals.vercel.app/
+Website Link - https://vroomzy-rentals.vercel.app
 
 Vroomzy is a full-stack web application that allows users to browse, book, and manage car rentals with ease. 
 
